@@ -1,4 +1,4 @@
-# capstone-project
+# Blossom Bank Capstone-Project
 
 Blossom Bank also known as BB PLC is a multinational financial services group, that offers retail and investment banking, pension management, asset management and payments services, headquartered in London, UK.
 
@@ -51,7 +51,7 @@ Based on the nature of the institution , i will suggest that the model should be
 
 Benefit to Blossom Bank
 
-The Benefit of the project to blossom bank is that patterns that precedes fraud can be detected and measured  , thus enabling the bank to detect fraud early before it occurs
+The Benefit of the project to blossom bank is that patterns that precedes fraud can be detected and measured, thus enabling the bank to detect fraud early before it occurs
 
 This will improve safety in the bank , thus customers will feel secured.
 
